@@ -27,3 +27,4 @@ docker stop panel ＃停止当前容器
 docker rm panel＃删除当前容器  
 
 # 这些命令都是我复制粘贴的，只是排了版方便粘贴到vps中，docker镜像是作者本人的不是我自己的
+备份的镜像：70210220/cdntip_panel
