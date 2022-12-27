@@ -19,7 +19,6 @@ docker exec -it panel /bin/bash
 ### 创建管理员  
 python manage.py createsuperuser --username admin --email email@email.com
 （创建用户）  
-fe39SI33##3Ss3zb83  
 ### 添加aws镜像  
 python manage.py aws_update_images   
 更新程序  
